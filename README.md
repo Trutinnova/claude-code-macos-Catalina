@@ -7,10 +7,8 @@
   
   | 你用的是 | 点这里 |
   |---------|------|
-  | DeepSeek | [DeepSeek
-  版教程](https://github.com/Trutinnova/claude-code-macos-10.15/blob/main/macOS_10.15_Claude_Code_安装教程.md) |
-  | 小米 MiMo | [小米 MiMo 版教程](https://github.com/Trutinnova/claude-code-macos-10.15/blob/main/macOS_10.15_Claude_
-  Code_小米MiMo版_安装教程.md) |
+  | DeepSeek | [DeepSeek版教程](https://github.com/Trutinnova/claude-code-macos-10.15/blob/main/macOS_10.15_Claude_Code_安装教程.md) |
+  | 小米 MiMo | [小米 MiMo 版教程](https://github.com/Trutinnova/claude-code-macos-10.15/blob/main/macOS_10.15_Claude_Code_小米MiMo版_安装教程.md) |
 
   看不懂选哪个？你从哪个平台拿的 Key，就选哪篇
   
