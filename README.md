@@ -1,7 +1,5 @@
-# claude-code-macos-10.15
-
+# claude-code-macos-10.15.8（Catalina）
 # 让 macOS 10.15 老 Mac 也能装上 Claude Code，支持 DeepSeek 和 MiMo
-
 教程只适用 macOS 10.15（Catalina
 
 ##为什么锁定 v2.1.112 版本？
@@ -12,8 +10,7 @@
 Docker 的局限： 虽然在 macOS 10.15 上可以通过安装旧版 Docker (如 Docker 4.15) 来运行一些容器，但 Claude Code 在 Docker 容器内会受到极大限制。它无法读取、控制和修改容器外部（你 Mac 本地）的文件和系统环境。
 本地安装的优势：只有将 Claude Code (v2.1.112) 直接安装在 Mac 本地系统上，它才能真正发挥出完全体实力，自由地帮你操作本地代码库、执行本地终端命令。
 
-  
-  ## 选一篇开始
+## 选一篇开始
   
   | 你用的是 | 点这里 |
   |---------|------|
